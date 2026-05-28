@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/marie-henriksen/daily-help.git/static/css/main.61dbb936.css",
-    "main.js": "/marie-henriksen/daily-help.git/static/js/main.7a854ffb.js",
-    "index.html": "/marie-henriksen/daily-help.git/index.html",
-    "main.61dbb936.css.map": "/marie-henriksen/daily-help.git/static/css/main.61dbb936.css.map",
-    "main.7a854ffb.js.map": "/marie-henriksen/daily-help.git/static/js/main.7a854ffb.js.map"
+    "main.css": "/daily-help/static/css/main.61dbb936.css",
+    "main.js": "/daily-help/static/js/main.7a854ffb.js",
+    "index.html": "/daily-help/index.html",
+    "main.61dbb936.css.map": "/daily-help/static/css/main.61dbb936.css.map",
+    "main.7a854ffb.js.map": "/daily-help/static/js/main.7a854ffb.js.map"
   },
   "entrypoints": [
     "static/css/main.61dbb936.css",
