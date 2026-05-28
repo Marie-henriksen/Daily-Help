@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/daily-help/static/css/main.61dbb936.css",
-    "main.js": "/daily-help/static/js/main.7a854ffb.js",
-    "index.html": "/daily-help/index.html",
-    "main.61dbb936.css.map": "/daily-help/static/css/main.61dbb936.css.map",
-    "main.7a854ffb.js.map": "/daily-help/static/js/main.7a854ffb.js.map"
+    "main.css": "/Daily-Help/static/css/main.61dbb936.css",
+    "main.js": "/Daily-Help/static/js/main.7a854ffb.js",
+    "index.html": "/Daily-Help/index.html",
+    "main.61dbb936.css.map": "/Daily-Help/static/css/main.61dbb936.css.map",
+    "main.7a854ffb.js.map": "/Daily-Help/static/js/main.7a854ffb.js.map"
   },
   "entrypoints": [
     "static/css/main.61dbb936.css",
